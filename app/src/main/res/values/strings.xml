@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Quiz_App</string>
+    <string name="instructions">INSTRUCTIONS</string>
+    <string name="timer">24</string>
+    <string name="counter">1/10</string>
+    <string name="question">who is your dadda</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="quiz_categories">
+        <item>Mathematics</item>
+        <item>Language</item>
+        <item>Puzzle</item>
+        <item>Science</item>
+        <item>Drama</item>
+        <item>History</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>random description</item>
+        <item>random description</item>
+        <item>random description</item>
+        <item>random description</item>
+        <item>random description</item>
+        <item>random description</item>
+    </string-array>
+
+</resources>
